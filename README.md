@@ -67,7 +67,7 @@ Each release may include:
 
 ## 👨‍💻 Developer
 
-**HelloRiazulislam**
+**Riazul islam**
 
 RiRxTunnel is developed and maintained by the RiRxTunnel project team.
 
